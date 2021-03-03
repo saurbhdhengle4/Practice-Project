@@ -1,0 +1,29 @@
+h2{
+  text-align: center;
+
+}
+.jumbotron{
+  color: white;
+}
+
+
+.container-fluid {
+  padding: 60px 50px;
+}
+.bg-grey {
+  background-color: #474e5d;
+}
+.logo {
+  font-size: 200px;
+}
+@media screen and (max-width: 768px) {
+  .col-sm-4 {
+    margin: 25px 0;
+  }
+}
+.col-sm-8{
+  text-align:center;
+}
+.text{
+  color: white;
+}
